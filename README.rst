@@ -1,3 +1,7 @@
+.. image:: https://api.codeclimate.com/v1/badges/a8487da6e9b894747f16/maintainability
+   :target: https://codeclimate.com/github/Shoobx/lxml/maintainability
+   :alt: Maintainability
+
 What is lxml?
 =============
 
